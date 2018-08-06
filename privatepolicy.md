@@ -2,7 +2,6 @@
 layout: page
 title: Naibao.W 通用隐私声明
 subtitle:Naibao.W Universal Private Policy
-use-site-title: true
 ---
 ##  一、搜集、分拣信息
 
@@ -11,11 +10,11 @@ use-site-title: true
 ##  二、限制利用原则
 
  本软件只有在下列条件下，方对收集的个人资料进行必要范围以外的使用：
- 
+
  * 已取得您的同意
  * 为免除您在生命、身体或财产方面遇到的急迫危险
  * 为防止他人权益遭受重大危害
- 
+
 ##  三、免责
 
 发生下列情况时本程序不承担任何责任：

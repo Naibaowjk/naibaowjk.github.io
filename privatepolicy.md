@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Naibao.W 通用隐私声明
-subtitle:Naibao.W Universal Private Policy
+subtitle: Naibao.W Universal Private Policy
 ---
 ##  一、搜集、分拣信息
 

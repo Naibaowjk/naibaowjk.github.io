@@ -31,7 +31,7 @@ navbar-links:
 
   MySite:
     - MSDev Dashboard: "https://partner.microsoft.com/zh-cn/dashboard/windows/overview/"
-	- UWP PrivatePolicy: "UWP_PrivatePolicy"
+	- UWP PrivatePolicy:"PrivatePolicy"
   About Me: "aboutme"
 
   

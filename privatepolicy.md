@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Naibao.W 通用隐私声明
-subtitle: Naibao.W Universal Private Policy
+title:  Universal Private Policy
+subtitle: Developer Naibao.W
 ---
+
 ##  一、搜集、分拣信息
 
 当您使用与此隐私声明关联的软件（以下简称"本软件"）时，您的在软件中输入的账号或者是打开的文件在默认情况下不会被传输到我们的服务器。

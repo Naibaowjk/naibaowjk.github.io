@@ -69,8 +69,8 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-# author: 
-  name: “NaibaoOfficial”
+ author: 
+ name: NaibaoOfficial
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -130,7 +130,7 @@ url-pretty: "naibaoofficial.tk"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
- disqus: "Naibaoofficial"
+ disqus: "NaibaoOfficial"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""

@@ -38,7 +38,8 @@ navbar-links:
     - GitHub Pages: "https://pages.github.com/"
   MySite:
     - MSDev Dashboard: "https://partner.microsoft.com/zh-cn/dashboard/windows/overview/"
-	- My PAC for BeijingServer: "pac"
+	- UWP PrivatePolicy: "https://naibaowjk.github.io/privatepolicy"
+  My PAC for BeijingServer: "pac"
   UWP PrivatePolicy: "privatepolicy"
   About Me: "aboutme"
 

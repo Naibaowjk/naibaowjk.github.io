@@ -4,14 +4,14 @@
 var proxy = "__PROXY__";
 
 var rules = [
- 	"||music.163.com^",
-	"||*.music.163.com^",
-	"||v.qq.com^",];
-	"||www.youku.com^",
+ 	"||music.163.com/*",
+	"||*.music.163.com/*",
+	"||v.qq.com/*",
+	"||www.youku.com/*",
 	"||v.youku.com/v_show/id_*",
-	"||https://vku.youku.com/live^",
-	"||www.bilibili.com^",
-	"||www.baidu.com^",
+	"||https://vku.youku.com/live/*",
+	"||www.bilibili.com/*",
+	"||www.baidu.com/*",
 ];
 
 /*

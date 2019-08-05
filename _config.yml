@@ -39,7 +39,7 @@ navbar-links:
   MySite:
     - MSDev Dashboard: "https://partner.microsoft.com/zh-cn/dashboard/windows/overview/"
     - Beijing PAC: "pac"
-    - Course AndrewNg: "Coursera-ML-AndrewNg/HTML/index.html"
+    - DL AndrewNg: "Coursera-ML-AndrewNg/HTML/index.html"
   UWP PrivatePolicy: "privatepolicy"
   About Me: "aboutme"
 

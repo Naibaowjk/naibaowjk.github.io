@@ -2,6 +2,7 @@ This PAC is for the myself who is going to abroad and want to continually view s
 
 -----------------------------------------
 2019.11.04
+
 目前以支持的网站如下
 - 爱奇艺（网页端，UWP不起作用）
 - 网易云音乐
@@ -12,7 +13,7 @@ This PAC is for the myself who is going to abroad and want to continually view s
 - imgtrip网站
 - 学堂在线
 
------------------------------------------
+
 #### pac.txt address
 `https://naibaowjk.github.io/pac.txt`
 #### directly download pac file

@@ -20,13 +20,12 @@ var rules = [
 //	"||www.bilibili.com/*",
 //	"||*.bilibili.com/*",
 //	"||www.baidu.com/*",
-	
+                "||next.xuetangx.com/*",
 	"||*.iqiyi.com/*",
 	"||list3.ppstream.com/*",
 	"||*.iqiyipic.com/*",
 	"||*.*.iqiyi.com/*",
 	"|http://www.iqiyi.com/*",
-	
 	"||*.imgtrip.com/*",
 	"||iqiyi.com/*"
 ];

@@ -13,7 +13,7 @@ This PAC is for the myself who is going to abroad and want to continually view s
 - imgtrip网站
 - 学堂在线
 
-123
+-----------------------------------------
 #### pac.txt address
 `https://naibaowjk.github.io/pac.txt`
 #### directly download pac file

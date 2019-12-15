@@ -4,6 +4,7 @@
 var proxy = "__PROXY__";
 
 var rules = [
+	"||y.qq.com/*",
  	"||music.163.com/*",
 	"||*.music.163.com/*",
 	"||v.qq.com/*",

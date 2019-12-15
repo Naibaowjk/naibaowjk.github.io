@@ -13,7 +13,7 @@ subtitle: why everything so heavy?
 * Bachelor      :  西安电子科技大学 _XidianUniversity_ 
 * Major         :  Communication Engineering
 * Master        :  德累斯顿工业大学 _Technische Universität Dresden_
-* Major         :  Maybe still Communication Engineering
+* Major         :  Communication Engineering
 
 ### Other Information
 * My favorite Music Band: Linkin Park

@@ -5,6 +5,9 @@ title:  PAC
 This PAC is for the myself who is going to abroad and want to continually view some China website and service.
 
 -----------------------------------------
+2020.02.15
+- 增加对中国大学慕课MOOC的支持
+-----------------------------------------
 2019.12.15
 
 - 增加对QQ音乐的支持

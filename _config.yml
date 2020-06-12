@@ -21,7 +21,7 @@ title: NaibaoOfficial
 
 
 # Short description of your site
-description: Das ist eine webseite für mich.
+description: naibaoofficial's website.
 
 
 # --- Navigation bar options --- #
@@ -34,12 +34,14 @@ navbar-links:
   Search: "search"
   Tag: "tags"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-    - 废话文章生成器: "https://suulnnka.github.io/BullshitGenerator/index.html?"
-  MySite:
+    - Google: "https://www.google.com"
+    - Github: "https://github.com"
+    - Wallpaperhub: "https://wallpaperhub.app"    
+    - OPAL: "https://bildungsportal.sachsen.de/opal/home?1"
     - MSDev Dashboard: "https://partner.microsoft.com/zh-cn/dashboard/windows/overview/"
+    - 废话文章生成器: "https://suulnnka.github.io/BullshitGenerator/index.html?"
+    
+  InMySite:
     - Beijing PAC: "pac"
     - DL AndrewNg: "Coursera-ML-AndrewNg/HTML/index.html"
     - UWP PrivatePolicy: "privatepolicy"

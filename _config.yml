@@ -34,12 +34,13 @@ navbar-links:
   Search: "search"
   Tag: "tags"
   Resources:
+    - BGHub: "https://wallpaperhub.app" 
     - Google: "https://www.google.com"
     - Github: "https://github.com"
-    - BGHub: "https://wallpaperhub.app"    
-    - OPAL: "https://bildungsportal.sachsen.de/opal/home?1"
     - MSDev Dashboard: "https://partner.microsoft.com/zh-cn/dashboard/windows/overview/"
+    - OPAL: "https://bildungsportal.sachsen.de/opal/home?1"
     - 废话文章生成器: "https://suulnnka.github.io/BullshitGenerator/index.html?"
+    - 知乎: "https://zhihu.com"
     
   InMySite:
     - Beijing PAC: "pac"

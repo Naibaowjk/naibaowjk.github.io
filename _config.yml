@@ -39,8 +39,10 @@ navbar-links:
     - Github: "https://github.com"
     - MSDev Dashboard: "https://partner.microsoft.com/zh-cn/dashboard/windows/overview/"
     - OPAL: "https://bildungsportal.sachsen.de/opal/home?1"
+    - RTin1Wkd: "https://raytracing.github.io/books/RayTracingInOneWeekend.html"
     - 废话文章生成器: "https://suulnnka.github.io/BullshitGenerator/index.html?"
     - 知乎: "https://zhihu.com"
+
     
   InMySite:
     - Beijing PAC: "pac"
